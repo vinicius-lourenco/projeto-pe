@@ -1,0 +1,24 @@
+ID,Pergunta,A,Nó A,B,Nó B
+1,Pés quadrados da moradia<=1195?,Sim,2,Não,3
+2,Pés quadrados do(s) andar(es) superior(es)<=1060?,Sim,4,Não,5
+3,Pés quadrados da moradia<=1575?,Sim,6,Não,7
+4,NÓ FOLHA,A casa está cara!,,,
+5,NÓ FOLHA,A casa está cara!,,,
+6,Preço<=480475?,Sim,8,Não,9
+7,Preço<=666000?,Sim,10,Não,11
+8,NÓ FOLHA,A casa está barata!,,,
+9,Preço<=572500?,Sim,12,Não,13
+10,Pés quadrados do terreno<=1996.5?,Sim,14,Não,15
+11,Pés quadrados da moradia<=1905?,Sim,16,Não,17
+12,Pés quadrados da moradia<=1445?,Sim,18,Não,19
+13,NÓ FOLHA,A casa está cara!,,,
+14,NÓ FOLHA,A casa está barata!,,,
+15,NÓ FOLHA,A casa está barata!,,,
+16,NÓ FOLHA,A casa está cara!,,,
+17,Preço<=850375?,Sim,20,Não,21
+18,Pés quadrados da moradia<=1390?,Sim,22,Não,23
+19,NÓ FOLHA,A casa está barata!,,,
+20,NÓ FOLHA,A casa está barata!,,,
+21,NÓ FOLHA,A casa está barata!,,,
+22,NÓ FOLHA,A casa está cara!,,,
+23,NÓ FOLHA,A casa está cara!,,,
